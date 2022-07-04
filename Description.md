@@ -14,3 +14,21 @@
 |   Favorite Food	|   Le gras, c'est la vie	|
 |   Pinneapple with pizza	|  NO 	|
 
+#### Hobbie : 
+- Astronomie
+- JV
+    - Elden ring
+    - Valheim
+    - Overwatch
+- un peu de 3D
+    - Cinema4D
+    - Unity
+
+#### You can always count on me when i have the capacity to help you or if not, take the time!
+
+#### A funny Story 
+##### J'ai été champion du Hainaut de sortie extra véhiculaire dans l'espace, et accésoirement j'aime dire des bétises.
+
+<< [Previous](https://github.com/BenoitBlaevoet/challenge-markdown) | Brigode Xavier | [Next](https://github.com/xavcha03/challenge-markdown/blob/main/README.md)
+
+
